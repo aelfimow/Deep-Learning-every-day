@@ -1,2 +1,3 @@
 # Deep-Learning-every-day
-Notes reading topics about Deep Learning
+
+Neue Herausforderung, sich täglich mit 'Deep Learning' und dazu verwandten Themen zu beschäftigen.
