@@ -21,5 +21,5 @@ L = \frac{1}{m} \sum_{i=1}^{m} ((wx_{i} + b) - y_{i})^2
 ```
 * Partielle Ableitung
 ```math
-\frac{\partial L}{\partial w} = \frac{2}{m} \sum_{i=1}^{m} x_{i}((wx_{i} + b) - y_{i})^2
+\frac{\partial L}{\partial w} = \frac{2}{m} \sum_{i=1}^{m} x_{i}((wx_{i} + b) - y_{i})
 ```
