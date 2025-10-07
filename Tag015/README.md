@@ -13,7 +13,7 @@ Ab Seite 34:
 
 * Gewichtsvektor: $\vec{w}$
   - weight
-  - $w_{1}, w_{2}, w_{3}, ..., w_{n}
+  - $w_{1}, w_{2}, w_{3}, ..., w_{n}$
 
 Ab Seite 35:
 ```math
