@@ -2,6 +2,9 @@
 
 ## A
 
+`AI`: Artificial Intelligence
+* [Buch 4](./Buch4.md): S. 37
+
 `ANN`: Artificial Neural Network
 * [Buch 4](./Buch4.md): S. 19
 
@@ -16,7 +19,7 @@
 * [Buch 4](./Buch4.md): S. 19
 
 `KI`: Künstliche Intelligenz
-* [Buch 4](./Buch4.md): S. 20
+* [Buch 4](./Buch4.md): S. 20, S. 37
 
 ## L
 
@@ -30,4 +33,14 @@
 
 `ML`: Machine Learning
 * [Buch 1](./Buch1.md): S. 10
-* [Buch 4](./Buch4.md): S. 22
+* [Buch 4](./Buch4.md): S. 22, S.38
+
+## N
+
+`NLP`: Natural Language Processing
+* [Buch 4](./Buch4.md): S. 38
+
+## T
+
+`TT`: Turing Test
+* [Buch 4](./Buch4.md): S. 38
