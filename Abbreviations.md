@@ -3,7 +3,8 @@
 ## A
 
 `AI`: Artificial Intelligence
-* [Buch 4](./Buch4.md): S. 37
+* [Buch 4](./Buch4.md):
+  - Seiten: 37, 40
 
 `ANN`: Artificial Neural Network
 * [Buch 4](./Buch4.md): S. 19
@@ -13,10 +14,17 @@
 `CNN`: Convolutional Neural Network
 * [Buch 4](./Buch4.md): S. 20, S. 23
 
+## G
+
+`GPT`: Generative Pre-trained Transformer
+* [Buch 4](./Buch4.md):
+  - Seiten: 20, 23, 43
+
 ## K
 
 `KNN`: Künstliches Neuronales Netz
-* [Buch 4](./Buch4.md): S. 19
+* [Buch 4](./Buch4.md):
+  - Seiten: 19, 40, 42
 
 `KI`: Künstliche Intelligenz
 * [Buch 4](./Buch4.md): S. 20, S. 37
@@ -33,7 +41,8 @@
 
 `ML`: Machine Learning
 * [Buch 1](./Buch1.md): S. 10
-* [Buch 4](./Buch4.md): S. 22, S.38
+* [Buch 4](./Buch4.md):
+  - Seiten: 22, 38, 41
 
 ## N
 
