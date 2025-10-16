@@ -24,7 +24,7 @@
 
 `KNN`: Künstliches Neuronales Netz
 * [Buch 4](./Buch4.md):
-  - Seiten: 19, 40, 42
+  - Seiten: 19, 40, 42, 82, 84
 
 `KI`: Künstliche Intelligenz
 * [Buch 4](./Buch4.md): S. 20, S. 37
@@ -36,6 +36,9 @@
 
 `lr`: Lernrate
 * [Buch 1](./Buch1.md): S. 32
+
+`LTU`: Linear Threshold Unit
+* [Buch 4](./Buch4.md): S. 84
 
 ## M
 
