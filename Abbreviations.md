@@ -20,6 +20,11 @@
 * [Buch 4](./Buch4.md):
   - Seiten: 20, 23, 43
 
+## I
+
+`ILSVRC`: ImageNet Large Scale Visual Recognition Challenge
+* [Buch 5](./Buch5.md): S. 16
+
 ## K
 
 `KNN`: Künstliches Neuronales Netz
@@ -53,6 +58,9 @@
 * [Buch 4](./Buch4.md): S. 38
 
 ## T
+
+`TML`: Traditional Machine Learning
+* [Buch 5](./Buch5.md): S. 13
 
 `TT`: Turing Test
 * [Buch 4](./Buch4.md): S. 38
