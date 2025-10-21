@@ -36,6 +36,9 @@
 
 ## L
 
+`LDV`: Linguistische Datenverarbeitung
+* [Buch 5](./Buch5.md): S. 25
+
 `LLM`: Large Language Models
 * [Buch 4](./Buch4.md): S. 24
 
@@ -56,6 +59,12 @@
 
 `NLP`: Natural Language Processing
 * [Buch 4](./Buch4.md): S. 38
+* [Buch 5](./Buch5.md): S. 25
+
+## R
+
+`ReLU`: Rectified Linear Unit
+* [Buch 5](./Buch5.md): S. 18
 
 ## T
 
