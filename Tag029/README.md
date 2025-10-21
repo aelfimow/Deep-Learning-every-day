@@ -3,7 +3,7 @@
 Notizen zum Buch [Buch 5](../Buch5.md).
 
 Ab Seite 18:
-* `GPu`
+* `GPU`
 * neuer Typ künstlicher Neuronen
   - `ReLU`: Rectified Linear Unit
 * neuer Trick: Dropout
