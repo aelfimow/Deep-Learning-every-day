@@ -5,6 +5,7 @@ Notizen zum Buch [Buch 5](../Buch5.md).
 Ab Seite 42:
 * Morpheme + Phoneme -> Wörter -> Syntax -> Semantik
 * Abstraktheit und Komplexität steigt
+
 | Repräsentation | Traditional Machine Learning | Deep Learning | Nur Audio |
 |----------------|------------------------------|---------------|-----------|
 | Phonologie     | Alle Phoneme                 | Vektoren      | Wahr      |
