@@ -8,6 +8,7 @@
 
 `ANN`: Artificial Neural Network
 * [Buch 4](./Buch4.md): S. 19
+* [Buch 5](./Buch5.md): S. 48
 
 ## C
 
@@ -15,6 +16,9 @@
 * [Buch 4](./Buch4.md): S. 20, S. 23
 
 ## G
+
+`GAN`: Generative Adversarial Networks
+* [Buch 5](./Buch5.md): S. 47
 
 `GPT`: Generative Pre-trained Transformer
 * [Buch 4](./Buch4.md):
