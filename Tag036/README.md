@@ -26,3 +26,6 @@ Ab Seite 60:
 
 * $\hat{y} = w_{1} \cdot x_{1} + w_{2} \cdot x_{2} + ... + b$
   - gewichtete Summe der Eingaben
+  - zur Erinnerung:
+    - [Tag 17](../Tag017/README.md)
+    - [Tag 27](../Tag027/README.md)
