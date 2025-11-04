@@ -60,6 +60,9 @@
   - Seiten: 22, 38, 41
 * [Buch 5](./Buch5.md): S. 27
 
+`MSE`: Mean Squared Error?
+* [Buch 1](./Buch1.md): S. 86
+
 ## N
 
 `NLP`: Natural Language Processing
