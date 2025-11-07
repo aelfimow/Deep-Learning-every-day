@@ -60,6 +60,9 @@
   - Seiten: 22, 38, 41
 * [Buch 5](./Buch5.md): S. 27
 
+`MNIST`: Modified `NIST` (National Institute of Standards and Technology)
+* [Buch 1](./Buch1.md): S. 94
+
 `MSE`: Mean Squared Error?
 * [Buch 1](./Buch1.md): S. 86
 
