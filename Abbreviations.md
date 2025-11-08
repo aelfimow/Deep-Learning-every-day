@@ -24,6 +24,9 @@
 * [Buch 4](./Buch4.md):
   - Seiten: 20, 23, 43
 
+`GSS`: Gewichtete Summe plus Sigmoide
+* [Buch 1](./Buch1.md): S. 106
+
 ## I
 
 `ILSVRC`: ImageNet Large Scale Visual Recognition Challenge
