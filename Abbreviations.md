@@ -83,6 +83,11 @@
 `ReLU`: Rectified Linear Unit
 * [Buch 5](./Buch5.md): S. 18
 
+## S
+
+`SML`: Softmax-Funktion und die Kreuzentropie
+* [Buch 1](./Buch1.md): S. 160
+
 ## T
 
 `TML`: Traditional Machine Learning
