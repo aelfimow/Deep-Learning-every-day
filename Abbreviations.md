@@ -85,6 +85,9 @@
 
 ## S
 
+`SGD`: einfacher Gradientenabstieg, stochastischer Gradientenabstieg
+* [Buch 1](./Buch1.md): S. 238
+
 `SML`: Softmax-Funktion und die Kreuzentropie
 * [Buch 1](./Buch1.md): S. 160
 
