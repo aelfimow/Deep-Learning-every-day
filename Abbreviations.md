@@ -23,6 +23,7 @@
 
 `GAN`: Generative Adversarial Networks
 * [Buch 5](./Buch5.md): S. 47
+* [Buch 1](./Buch1.md): S. 315
 
 `GPT`: Generative Pre-trained Transformer
 * [Buch 4](./Buch4.md):
@@ -59,6 +60,9 @@
 `lr`: Lernrate
 * [Buch 1](./Buch1.md): S. 32
 
+`LSTM`: Long Short-Term Memory
+* [Buch 1](./Buch1.md): S. 315
+
 `LTU`: Linear Threshold Unit
 * [Buch 4](./Buch4.md): S. 84
 
@@ -90,6 +94,9 @@
 `ReLU`: Rectified Linear Unit
 * [Buch 5](./Buch5.md): S. 18
 * [Buch 1](./Buch1.md): S. 274
+
+`RNN`: Rekurrente Neuronale Netze
+* [Buch 1](./Buch1.md): S. 314
 
 ## S
 
