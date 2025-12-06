@@ -74,6 +74,9 @@
   - Seiten: 22, 38, 41
 * [Buch 5](./Buch5.md): S. 27
 
+`MLP`: Multi-Layer-Perceptrons
+* [Buch 4](./Buch4.md): S. 148
+
 `MNIST`: Modified `NIST` (National Institute of Standards and Technology)
 * [Buch 1](./Buch1.md): S. 94
 
@@ -94,6 +97,9 @@
 `ReLU`: Rectified Linear Unit
 * [Buch 5](./Buch5.md): S. 18
 * [Buch 1](./Buch1.md): S. 274
+
+`RMS`: Root Mean Square
+* [Buch 4](./Buch4.md): S. 129
 
 `RNN`: Rekurrente Neuronale Netze
 * [Buch 1](./Buch1.md): S. 314
