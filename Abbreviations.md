@@ -44,7 +44,7 @@
 
 `KNN`: Künstliches Neuronales Netz
 * [Buch 4](./Buch4.md):
-  - Seiten: 19, 40, 42, 82, 84
+  - Seiten: 19, 40, 42, 82, 84, 153
 
 `KI`: Künstliche Intelligenz
 * [Buch 4](./Buch4.md): S. 20, S. 37
@@ -75,13 +75,15 @@
 * [Buch 5](./Buch5.md): S. 27
 
 `MLP`: Multi-Layer-Perceptrons
-* [Buch 4](./Buch4.md): S. 148
+* [Buch 4](./Buch4.md):
+  - Seiten: 148, 153
 
 `MNIST`: Modified `NIST` (National Institute of Standards and Technology)
 * [Buch 1](./Buch1.md): S. 94
 
-`MSE`: Mean Squared Error?
+`MSE`: Mean Squared Error
 * [Buch 1](./Buch1.md): S. 86
+* [Buch 4](./Buch4.md): S. 174
 
 ## N
 
@@ -97,6 +99,7 @@
 `ReLU`: Rectified Linear Unit
 * [Buch 5](./Buch5.md): S. 18
 * [Buch 1](./Buch1.md): S. 274
+* [Buch 4](./Buch4.md): S. 154
 
 `RMS`: Root Mean Square
 * [Buch 4](./Buch4.md): S. 129
@@ -105,6 +108,9 @@
 * [Buch 1](./Buch1.md): S. 314
 
 ## S
+
+`SE`: Squared Error
+* [Buch 4](./Buch4.md): S. 174
 
 `SGD`: einfacher Gradientenabstieg, stochastischer Gradientenabstieg
 * [Buch 1](./Buch1.md): S. 238
