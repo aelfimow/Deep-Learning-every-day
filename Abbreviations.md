@@ -19,6 +19,11 @@
 * [Buch 4](./Buch4.md): S. 20, S. 23
 * [Buch 1](./Buch1.md): S. 290, S. 296
 
+## F
+
+`fMRI`: Funktionelles Magnetresonanzbild
+* [Buch 4](./Buch4.md): S. 200
+
 ## G
 
 `GAN`: Generative Adversarial Networks
@@ -99,7 +104,7 @@
 `ReLU`: Rectified Linear Unit
 * [Buch 5](./Buch5.md): S. 18
 * [Buch 1](./Buch1.md): S. 274
-* [Buch 4](./Buch4.md): S. 154
+* [Buch 4](./Buch4.md): S. 154, S. 205
 
 `RMS`: Root Mean Square
 * [Buch 4](./Buch4.md): S. 129
