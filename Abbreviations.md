@@ -19,6 +19,11 @@
 * [Buch 4](./Buch4.md): S. 20, S. 23
 * [Buch 1](./Buch1.md): S. 290, S. 296
 
+## E
+
+`ELU`: Exponential Linear Unit
+* [Buch 4](./Buch4.md): S. 215
+
 ## F
 
 `fMRI`: Funktionelles Magnetresonanzbild
