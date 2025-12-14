@@ -116,6 +116,7 @@
 
 `RNN`: Rekurrente Neuronale Netze
 * [Buch 1](./Buch1.md): S. 314
+* [Buch 4](./Buch4.md): S. 216
 
 ## S
 
