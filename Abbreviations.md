@@ -101,7 +101,8 @@
 * [Buch 1](./Buch1.md): S. 147
 
 `NLP`: Natural Language Processing
-* [Buch 4](./Buch4.md): S. 38
+* [Buch 4](./Buch4.md):
+  - Seiten: 38, 217
 * [Buch 5](./Buch5.md): S. 25
 
 ## R
