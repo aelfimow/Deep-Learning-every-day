@@ -13,7 +13,7 @@ Ab Seite 227:
 
 Ab Seite 228:
 * Adam-Optimierung
-  - __Ada__ ptive __M__ omement Estimation
+  - __Ada__ ptive __M__ oment Estimation
 
 * Overfitting
   - das Netz besitzt keine Generalisierungsfähigkeit
