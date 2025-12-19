@@ -90,6 +90,7 @@
 
 `MNIST`: Modified `NIST` (National Institute of Standards and Technology)
 * [Buch 1](./Buch1.md): S. 94
+* [Buch 4](./Buch4.md): S. 233
 
 `MSE`: Mean Squared Error
 * [Buch 1](./Buch1.md): S. 86
