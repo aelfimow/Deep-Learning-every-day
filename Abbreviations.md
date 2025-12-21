@@ -45,6 +45,11 @@
 `GSS`: Gewichtete Summe plus Sigmoide
 * [Buch 1](./Buch1.md): S. 106
 
+## H
+
+`HDF5`: Hierarchical Data Format 5
+* [Buch 4](./Buch4.md): S.244
+
 ## I
 
 `ILSVRC`: ImageNet Large Scale Visual Recognition Challenge
