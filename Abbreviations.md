@@ -19,6 +19,9 @@
 * [Buch 4](./Buch4.md): S. 20, S. 23
 * [Buch 1](./Buch1.md): S. 290, S. 296
 
+`CVPR`: Computer Vision and Pattern Recognition
+* [Buch 4](./Buch4.md): S. 250
+
 ## E
 
 `ELU`: Exponential Linear Unit
@@ -54,6 +57,7 @@
 
 `ILSVRC`: ImageNet Large Scale Visual Recognition Challenge
 * [Buch 5](./Buch5.md): S. 16
+* [Buch 4](./Buch4.md): S. 250
 
 ## K
 
