@@ -81,6 +81,7 @@
 
 `LSTM`: Long Short-Term Memory
 * [Buch 1](./Buch1.md): S. 315
+* [Buch 4](./Buch4.md): S. 269
 
 `LTU`: Linear Threshold Unit
 * [Buch 4](./Buch4.md): S. 84
@@ -115,6 +116,11 @@
   - Seiten: 38, 217
 * [Buch 5](./Buch5.md): S. 25
 
+## P
+
+* `PNS`: Peripheres Nervensystem
+* [Buch 4](./Buch4.md): S. 271
+
 ## R
 
 `ReLU`: Rectified Linear Unit
@@ -127,7 +133,7 @@
 
 `RNN`: Rekurrente Neuronale Netze
 * [Buch 1](./Buch1.md): S. 314
-* [Buch 4](./Buch4.md): S. 216
+* [Buch 4](./Buch4.md): S. 216, S. 269
 
 ## S
 
@@ -140,6 +146,12 @@
 `SML`: Softmax-Funktion und die Kreuzentropie
 * [Buch 1](./Buch1.md): S. 160
 
+`SNN`: Spiking Neural Networks
+* [Buch 4](./Buch4.md): S. 269
+
+`SOM`: Self-Organizing Map
+* [Buch 4](./Buch4.md): S. 269
+
 ## T
 
 `TML`: Traditional Machine Learning
@@ -147,3 +159,8 @@
 
 `TT`: Turing Test
 * [Buch 4](./Buch4.md): S. 38
+
+## Z
+
+`ZNS`: Zentrales Nervensystem
+* [Buch 4](./Buch4.md): S. 271
