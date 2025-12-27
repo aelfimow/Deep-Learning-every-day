@@ -2,6 +2,9 @@
 
 ## A
 
+`Adaline`: Adaptive Linear Neuron
+* [Buch 4](./Buch4.md): S. 287
+
 `AI`: Artificial Intelligence
 * [Buch 4](./Buch4.md):
   - Seiten: 37, 40
@@ -37,6 +40,7 @@
 `GAN`: Generative Adversarial Networks
 * [Buch 5](./Buch5.md): S. 47
 * [Buch 1](./Buch1.md): S. 315
+* [Buch 4](./Buch4.md): S. 315, S. 304
 
 `GPT`: Generative Pre-trained Transformer
 * [Buch 4](./Buch4.md):
@@ -81,12 +85,18 @@
 
 `LSTM`: Long Short-Term Memory
 * [Buch 1](./Buch1.md): S. 315
-* [Buch 4](./Buch4.md): S. 269
+* [Buch 4](./Buch4.md): S. 269, S. 303
 
 `LTU`: Linear Threshold Unit
 * [Buch 4](./Buch4.md): S. 84
 
 ## M
+
+`Madaline`: Multiple Adaptive Linear Neuron
+* [Buch 4](./Buch4.md): S. 287
+
+`MCP`: McCulloch-Pitts (-Zelle, -Neuron)
+* [Buch 4](./Buch4.md): S. 284
 
 `ML`: Machine Learning
 * [Buch 1](./Buch1.md): S. 10
@@ -133,7 +143,8 @@
 
 `RNN`: Rekurrente Neuronale Netze
 * [Buch 1](./Buch1.md): S. 314
-* [Buch 4](./Buch4.md): S. 216, S. 269
+* [Buch 4](./Buch4.md):
+  - Seiten: 216, 269, 292, 
 
 ## S
 
@@ -146,11 +157,14 @@
 `SML`: Softmax-Funktion und die Kreuzentropie
 * [Buch 1](./Buch1.md): S. 160
 
+`SNARC`: Stochastic Neural Analog Reinforcement Calculator
+* [Buch 4](./Buch4.md): S. 286
+
 `SNN`: Spiking Neural Networks
 * [Buch 4](./Buch4.md): S. 269
 
 `SOM`: Self-Organizing Map
-* [Buch 4](./Buch4.md): S. 269
+* [Buch 4](./Buch4.md): S. 269, S. 301
 
 ## T
 
