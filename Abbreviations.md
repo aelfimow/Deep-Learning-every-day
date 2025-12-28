@@ -22,6 +22,9 @@
 * [Buch 4](./Buch4.md): S. 20, S. 23
 * [Buch 1](./Buch1.md): S. 290, S. 296
 
+`CRISP-DM`: Cross Industry Standard Process for Data Mining
+* [Buch 4](./Buch4.md): S. 309
+
 `CVPR`: Computer Vision and Pattern Recognition
 * [Buch 4](./Buch4.md): S. 250
 
