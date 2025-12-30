@@ -51,6 +51,7 @@
 
 `GPU`: Graphics Processing Unit
 * [Buch 1](./Buch1.md): S. 307
+* [Buch 4](./Buch4.md): S. 321
 
 `GSS`: Gewichtete Summe plus Sigmoide
 * [Buch 1](./Buch1.md): S. 106
@@ -173,6 +174,9 @@
 
 `TML`: Traditional Machine Learning
 * [Buch 5](./Buch5.md): S. 13
+
+`TPU`: Tensor Processing Unit
+* [Buch 4](./Buch4.md): S. 321
 
 `TT`: Turing Test
 * [Buch 4](./Buch4.md): S. 38
