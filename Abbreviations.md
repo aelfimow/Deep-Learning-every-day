@@ -33,6 +33,10 @@
 `ELU`: Exponential Linear Unit
 * [Buch 4](./Buch4.md): S. 215
 
+`ER`-Diagramm: Entity-Relationship-Diagramm
+* [Buch 4](./Buch4.md): S. 338
+* Siehe auch: `SQL`, `NoSQL`
+
 ## F
 
 `fMRI`: Funktionelles Magnetresonanzbild
@@ -130,6 +134,10 @@
   - Seiten: 38, 217
 * [Buch 5](./Buch5.md): S. 25
 
+`NoSQL`: Not Only SQL
+* [Buch 4](./Buch4.md): S. 340
+* Siehe auch: `SQL`, `ER`-Diagramm
+
 ## P
 
 * `PNS`: Peripheres Nervensystem
@@ -169,6 +177,10 @@
 
 `SOM`: Self-Organizing Map
 * [Buch 4](./Buch4.md): S. 269, S. 301
+
+`SQL`: Structured Query Language
+* [Buch 4](./Buch4.md): S. 338
+* Siehe auch: `NoSQL`, `ER`-Diagramm
 
 ## T
 
