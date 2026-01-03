@@ -67,6 +67,10 @@
 
 ## I
 
+* `IDF`: Inverse Document Frequency
+* [Buch 4](./Buch4.md): S. 344
+* Siehe auch: `TF`
+
 `ILSVRC`: ImageNet Large Scale Visual Recognition Challenge
 * [Buch 5](./Buch5.md): S. 16
 * [Buch 4](./Buch4.md): S. 250
@@ -183,6 +187,14 @@
 * Siehe auch: `NoSQL`, `ER`-Diagramm
 
 ## T
+
+`TF`: Term Frequency
+* [Buch 4](./Buch4.md): S. 344
+* Siehe auch: `IDF`
+
+`TF-IDF`: Term Frequency - Inverse Document Frequency
+* [Buch 4](./Buch4.md): S. 344
+* Siehe auch: `TF`, `IDF`
 
 `TML`: Traditional Machine Learning
 * [Buch 5](./Buch5.md): S. 13
