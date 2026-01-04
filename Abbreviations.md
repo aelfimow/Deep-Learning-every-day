@@ -144,7 +144,10 @@
 
 ## P
 
-* `PNS`: Peripheres Nervensystem
+`PCA`: Principal Component Analysis
+* [Buch 4](./Buch4.md): S. 348
+
+`PNS`: Peripheres Nervensystem
 * [Buch 4](./Buch4.md): S. 271
 
 ## R
