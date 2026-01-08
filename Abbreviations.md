@@ -13,6 +13,9 @@
 * [Buch 4](./Buch4.md): S. 19
 * [Buch 5](./Buch5.md): S. 48
 
+`ART`: Adaptive Resonance Theory
+* [Buch 4](./Buch4.md): S. 362
+
 ## C
 
 `CIFAR`: Canadian Institute For Advanced Research
@@ -183,7 +186,8 @@
 * [Buch 4](./Buch4.md): S. 269
 
 `SOM`: Self-Organizing Map
-* [Buch 4](./Buch4.md): S. 269, S. 301
+* [Buch 4](./Buch4.md):
+    - Seiten: 269, 301, 362
 
 `SQL`: Structured Query Language
 * [Buch 4](./Buch4.md): S. 338
