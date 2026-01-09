@@ -16,6 +16,11 @@
 `ART`: Adaptive Resonance Theory
 * [Buch 4](./Buch4.md): S. 362
 
+## B
+
+`BMU`: Best Matching Unit
+* [Buch 4](./Buch4.md): S. 364
+
 ## C
 
 `CIFAR`: Canadian Institute For Advanced Research
