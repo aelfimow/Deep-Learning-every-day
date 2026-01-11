@@ -36,6 +36,12 @@
 `CVPR`: Computer Vision and Pattern Recognition
 * [Buch 4](./Buch4.md): S. 250
 
+
+## D
+
+`DQN`: Deep Q-Network
+* [Buch 4](./Buch4.md): S. 377
+
 ## E
 
 `ELU`: Exponential Linear Unit
