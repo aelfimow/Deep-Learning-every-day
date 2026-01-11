@@ -23,3 +23,6 @@ Ab Seite 382:
   - Q-Network
   - Epsilon-Schranke
     - Epsilon-Greedy-Strategie
+  - Replay Memory
+  - Replay
+  - Visualisierung
