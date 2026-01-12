@@ -16,6 +16,9 @@
 `ART`: Adaptive Resonance Theory
 * [Buch 4](./Buch4.md): S. 362
 
+`AUROC`: Area Under `ROC`
+* [Buch 4](./Buch4.md): S. 386
+
 ## B
 
 `BMU`: Best Matching Unit
@@ -55,6 +58,12 @@
 
 `fMRI`: Funktionelles Magnetresonanzbild
 * [Buch 4](./Buch4.md): S. 200
+
+`FN`: False Negative
+* [Buch 4](./Buch4.md): S. 385
+
+`FP`: False Positive
+* [Buch 4](./Buch4.md): S. 385
 
 ## G
 
@@ -179,6 +188,9 @@
 * [Buch 4](./Buch4.md):
   - Seiten: 216, 269, 292, 
 
+`ROC`: Receiver-Operating-Characteristic
+* [Buch 4](./Buch4.md): S. 386
+
 ## S
 
 `SE`: Squared Error
@@ -216,6 +228,12 @@
 
 `TML`: Traditional Machine Learning
 * [Buch 5](./Buch5.md): S. 13
+
+`TN`: True Negative
+* [Buch 4](./Buch4.md): S. 385
+
+`TP`: True Positive
+* [Buch 4](./Buch4.md): S. 385
 
 `TPU`: Tensor Processing Unit
 * [Buch 4](./Buch4.md): S. 321
