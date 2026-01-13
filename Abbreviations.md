@@ -130,6 +130,9 @@
 `Madaline`: Multiple Adaptive Linear Neuron
 * [Buch 4](./Buch4.md): S. 287
 
+`MAE`, `mae`: Mean Absolute Error
+* [Buch 4](./Buch4.md): S. 393
+
 `MCP`: McCulloch-Pitts (-Zelle, -Neuron)
 * [Buch 4](./Buch4.md): S. 284
 
@@ -147,7 +150,7 @@
 * [Buch 1](./Buch1.md): S. 94
 * [Buch 4](./Buch4.md): S. 233
 
-`MSE`: Mean Squared Error
+`MSE`, `mse`: Mean Squared Error
 * [Buch 1](./Buch1.md): S. 86
 * [Buch 4](./Buch4.md): S. 174
 
